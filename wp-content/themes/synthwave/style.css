@@ -1,0 +1,14 @@
+/*
+Theme Name: Synthwave
+Description: my first wordpress theme
+Author: Tom boszko
+Author URI: https://github.com/tomboszko
+Version: 1.0
+*/
+
+body {
+    background: #000000;
+    font-family: "futura-pt", sans-serif;
+    color: #dd00ff;
+    margin: 0 auto;
+  }
