@@ -1,10 +1,10 @@
 <?php
 /*
-Template Name: Home
+Template Name: home
 */
 ?>
 
-<?php get_header(); ?>
+<?php get_template_part('parts/header'); ?>
 
 <!-- Contenu Principal de la Page d'Accueil -->
 <main>
@@ -30,4 +30,4 @@ Template Name: Home
     </section>
 </main>
 
-<?php get_footer(); ?>
+<?php get_template_part('parts/footer'); ?>
