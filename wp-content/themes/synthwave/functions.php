@@ -9,3 +9,8 @@ function neon82_enqueue_styles() {
     // wp_enqueue_style( 'neon82-custom-style', get_template_directory_uri() . '/chemin/vers/votre-feuille-de-style.css', array('neon82-style'), '1.0.0' );
 }
 add_action( 'wp_enqueue_scripts', 'neon82_enqueue_styles' );
+
+function register_my_menu(){
+    register_nav_menu( 'main-menu', 'Menu principal' );
+  }
+  add_action( 'after_setup_theme', 'register_my_menu' );

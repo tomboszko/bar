@@ -11,12 +11,18 @@ Template Name: home
 <!-- Contenu Principal de la Page d'Accueil -->
 <main>
     <section class="hero">
+        
         <!-- Section Héro, avec une image de fond ou un carrousel, par exemple -->
     </section>
 
     <section class="about">
         <!-- À Propos du Bar "Neon 82", histoire, concept, etc. -->
         <h1>TEST AFFICHAGE</h1>
+        <ul>
+            <li>TEST AFFICHAGE</li>
+            <li>TEST AFFICHAGE</li>
+            <li>TEST AFFICHAGE</li>
+            <li>TEST AFFICHAGE</li>
     </section>
 
     <section class="events">
