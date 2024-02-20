@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Header
+Template Name: header
 */
 ?>
 
