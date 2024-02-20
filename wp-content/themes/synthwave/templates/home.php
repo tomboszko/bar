@@ -6,6 +6,8 @@ Template Name: home
 
 <?php get_template_part('parts/header'); ?>
 
+
+
 <!-- Contenu Principal de la Page d'Accueil -->
 <main>
     <section class="hero">
